@@ -1,0 +1,14 @@
+main: io.github.richstark.DeliveryMan.Main
+name: DeliveryMan
+depend: [Vault, Citizens]
+website: https://richthelord.com
+version: 3.0.0
+Description: A man that gives deliveries to your players!
+author: RichStark - richthelord
+commands:
+    dm:
+        usage: /<command>
+        description: Main Command
+    deliveryman:
+        usage: /<command>
+        description: Main Command
